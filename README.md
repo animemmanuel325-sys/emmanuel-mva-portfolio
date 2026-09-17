@@ -1,2 +1,3 @@
 # emmanuel-mva-portfolio
 Portfolio case study demonstrating Medical Virtual Assistant skills — patient call triage, refill request routing, HIPAA-safe email correspondence, and appointment scheduling. All patient details are fictional.
+A practice case study built to demonstrate my workflow and judgment as a Medical Virtual Assistant. It walks through a realistic multi-task scenario at a fictional family medicine practice — triaging a patient phone call, reviewing a medication refill request, replying to a new patient inquiry, and adjusting the daily schedule — with worked responses and mock documentation for each. All patient names and clinical details are fictional and created solely to illustrate the process.
